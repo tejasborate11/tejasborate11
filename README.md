@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @tejasborate11
+# About Me:
+
+- 👋 Hi, I’m Tejas Borate,
 - 👀 I’m interested in automated technologies, and to make them...
 - 🌱 I’m currently learning:
--- Advance AWS concepts and 
-     
+   Advanced AWS concepts and GraphQl
 - 💞️ I’m looking to collaborate on:
---FullStack Project (React, Nextjs, Nodejs)
+  FullStack Project (React, Nextjs, Nodejs)
 - 📫 How to reach me:
--- 
+  
 - ⚡ Fun fact:
 -- Love to make and show others crazy automated tech stuff.
 
