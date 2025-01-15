@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning:
    Advanced AWS concepts and GraphQl
 - 💞️ I’m looking to collaborate on:
-  FullStack Project (React, Nextjs, Nodejs)
+  FullStack Project (Nextjs, Nodejs and Flutter)
 - 📫 How to reach me:
   
 - ⚡ Fun fact:
